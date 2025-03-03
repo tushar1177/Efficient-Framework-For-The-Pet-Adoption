@@ -34,11 +34,3 @@ This project is aimed at building an easy-to-use platform for pet adoption. It a
 
 - **Other Tools:**  
   - **Axios** - For making HTTP requests to interact with the backend.
-
-## Installation
-
-To run the Pet Adoption Website locally, follow these steps:
-
-### 1. Clone the repository:
-
-```bash
